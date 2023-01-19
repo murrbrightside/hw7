@@ -10,7 +10,7 @@ public class Main {
         task8();
     }
     public static void task1 () {
-        System.out.println("Задача 1");
+        System.out.println("Задача 21");
         int amount = 0;
         int count = 0;
         while (amount <= 245900){
